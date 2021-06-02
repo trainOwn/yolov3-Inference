@@ -12,7 +12,7 @@ sh get_model.sh
 cd ..
 ```
 
-## Requirment 
+## Install Requirment 
 ```
 pip install -r requirements.txt
 ```
