@@ -38,3 +38,8 @@ look for help
 ```
 python3 inference.py -h
 ```
+# Results
+![](results/out.gif)
+![](results/img1.png)
+![](results/img2.png)
+![](results/img3.png)
