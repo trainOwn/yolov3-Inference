@@ -9,6 +9,7 @@ goto model directory and download model
 ```
 cd yolov3-Inference/model
 sh get_model.sh
+cd ..
 ```
 
 ## Requirment 
